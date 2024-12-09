@@ -1,0 +1,30 @@
+* {
+  background-color: black;
+  color: #4caf50;
+}
+p {
+  color: blueviolet;
+  background-color: aqua;
+}
+button {
+  background-color: #4caf50;
+}
+span {
+  color: yellow;
+}
+#FirstPara {
+  color: red;
+  background-color: lightblue;
+  font-size: 50px;
+}
+.myClass {
+  color: red;
+  background-color: yellow;
+  font-size: 20px;
+}
+div > button ,p{
+  background-color: #fff;
+}
+span button , p,form{
+    background-color: red;
+}

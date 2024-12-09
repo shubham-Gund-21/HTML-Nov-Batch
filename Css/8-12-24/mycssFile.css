@@ -1,0 +1,50 @@
+h1 {
+  color: red;
+  /* text-align: center; */
+  /* text-align: right; */
+  /* text-align: start; */
+  /* text-align: end; */
+  letter-spacing: 30px;
+}
+h2 {
+  color: brown;
+  text-decoration: underline solid blue;
+}
+p {
+  color: blueviolet;
+  font-weight: 900;
+  text-decoration: double;
+  line-height: 30px;
+  font-size:20px;
+}
+button {
+  color: aqua;
+}
+span {
+  color: rgb(205, 20, 250);
+  /* text-decoration: overline dashed; */
+  text-decoration: overline;
+  text-decoration-style: wavy;
+  text-decoration-color: #25ed25;
+}
+h3 {
+  color: rgb(31, 224, 51);
+}
+h4 {
+  color: rgb(255, 0, 255);
+}
+h5 {
+  color: #c01313;
+}
+li {
+  color: #e66502;
+}
+a {
+  color: #25ed25;
+}
+h6 {
+  color: rgba(255, 0, 0, 1);
+}
+a {
+  color: #ef9988;
+}
