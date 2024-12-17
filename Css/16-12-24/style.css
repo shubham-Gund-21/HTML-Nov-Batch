@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.parent {
+  border: 5px solid;
+  height: 400px;
+}
+#child1 {
+  height: 200px;
+  width: 200px;
+  background-color: rgb(8, 180, 237);
+  border: 2px solid;
+  padding: 30px;
+  margin: 30px;
+  display: inline-block;
+}
+#child2 {
+  height: 200px;
+  width: 200px;
+  background-color: rgb(237, 115, 8);
+  border: 2px solid;
+  display: inline-block;
+  /* visibility: hidden; */
+  padding: 30px;
+  margin: 30px;
+}
+
+#child3 {
+  height: 200px;
+  width: 200px;
+  background-color: rgb(255, 215, 0);
+  border: 2px solid;
+  display: inline-block;
+  padding: 30px;
+  margin: 30px;
+}
