@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box {
+  height: 50vh;
+  width: 200px;
+  border: 2px solid black;
+  margin: 20px;
+  background-color: aqua;
+}
+.child {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  border: 2px solid black;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+.footer {
+  height: 100px;
+  width: 100%;
+  background-color: blue;
+  position: fixed;
+  bottom: 0;
+}
+.container {
+  height: 300px;
+  width: 300px;
+  background-color: brown;
+  border: 2px solid black;
+  position: sticky;
+  top: 80px;
+}
